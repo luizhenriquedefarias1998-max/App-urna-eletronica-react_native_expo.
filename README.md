@@ -35,7 +35,6 @@ O projeto é composto pelos seguintes ficheiros essenciais na sua raiz:
 
 - **React Native** (com React Hooks como `useState` e `useEffect`)
 - **Expo Framework**
-- **Expo AV** (Reprodução de áudio)
 - **Expo Image Picker** (Acesso à galeria de imagens)
 
 ---
