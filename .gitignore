@@ -1,0 +1,20 @@
+# Pastas do Expo
+.expo/*
+dist/
+web-build/
+
+# Pastas nativas geradas automaticamente
+android/
+ios/
+
+# Dependências pesadas do JavaScript (NUNCA ENVIAR)
+node_modules/
+
+# Arquivos de logs e travas
+yarn-error.log
+.env*.local
+eas-build-local/
+
+# Arquivos temporários do Sistema Operacional
+.DS_Store
+Thumbs.db
