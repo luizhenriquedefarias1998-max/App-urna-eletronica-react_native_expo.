@@ -1,0 +1,1 @@
+# urna-eletronica-react_native_expo.
